@@ -44,7 +44,7 @@ button.addEventListener('click', function(){
     })
 })
 
-selectElement1.addEventListener('click', function(){
+selectElement1.addEventListener('change', function(){
    
     let imgcurrency = massifStrigt(selectElement1)
         document.getElementById('select1').style.cssText = `
