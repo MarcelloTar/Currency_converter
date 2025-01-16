@@ -155,9 +155,3 @@ select{
         margin: 15px;
     }
 }
-@media screen and (max-height: px) {
-    .container{
-        width: 90%;
-        /* height: 60%; */
-    }
-}
