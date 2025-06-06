@@ -1,1 +1,1 @@
-![foto page](/img/readme/foto)
+![foto page](/img/readme/foto.png)
